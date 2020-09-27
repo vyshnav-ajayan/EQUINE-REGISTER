@@ -1,0 +1,123 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.equineregister"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+13-->[:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->[:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+14-->[:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-78
+15
+16    <uses-feature
+16-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:9:5-11:35
+17        android:glEsVersion="0x00020000"
+17-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:10:9-41
+18        android:required="true" />
+18-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:11:9-32
+19    <uses-feature
+19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:12:5-14:36
+20        android:name="android.hardware.wifi"
+20-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:13:9-45
+21        android:required="false" />
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:14:9-33
+22
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+23-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:18:5-76
+23-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:18:22-73
+24    <uses-permission android:name="android.permission.WAKE_LOCK" />
+24-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:12:5-68
+24-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:12:22-65
+25
+26    <application
+26-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:6:5-25:19
+27        android:name="com.equineregister.MainApplication"
+27-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:7:7-38
+28        android:allowBackup="false"
+28-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:11:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+30        android:icon="@mipmap/ic_launcher"
+30-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:9:7-41
+31        android:label="@string/app_name"
+31-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:8:7-39
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:10:7-52
+33        android:theme="@style/AppTheme" >
+33-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:12:7-38
+34        <activity
+34-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:13:7-23:18
+35            android:name="com.equineregister.MainActivity"
+35-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:14:9-37
+36            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+36-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:16:9-86
+37            android:label="@string/app_name"
+37-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:15:9-41
+38            android:launchMode="singleTask"
+38-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:17:9-40
+39            android:windowSoftInputMode="adjustResize" >
+39-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:18:9-51
+40            <intent-filter>
+40-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:19:9-22:25
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:20:13-65
+41-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:20:21-62
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:21:13-73
+43-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:21:23-70
+44            </intent-filter>
+45        </activity>
+46        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+46-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:24:7-84
+46-->/Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:24:17-81
+47        <activity
+47-->[com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+48            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+48-->[com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+49            android:exported="false"
+49-->[com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+50            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+50-->[com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+51
+52        <meta-data
+52-->[com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+53            android:name="com.google.android.gms.version"
+53-->[com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+54            android:value="@integer/google_play_services_version" />
+54-->[com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+55
+56        <provider
+56-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:18:9-22:39
+57            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+57-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:19:13-93
+58            android:authorities="com.equineregister.mapboxtelemetryinitprovider"
+58-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:20:13-79
+59            android:exported="false"
+59-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:21:13-37
+60            android:initOrder="100" />
+60-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:22:13-36
+61
+62        <service
+62-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:24:9-26:72
+63            android:name="com.mapbox.android.telemetry.crash.CrashReporterJobIntentService"
+63-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:25:13-92
+64            android:permission="android.permission.BIND_JOB_SERVICE" />
+64-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:26:13-69
+65    </application>
+66
+67</manifest>

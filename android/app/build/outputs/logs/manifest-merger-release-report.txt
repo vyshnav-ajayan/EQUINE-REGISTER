@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_masked-view] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-gesture-handler] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sensors] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-sensors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/42e49ea39f9575a46c3cfe16bb1bdfb5/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a44a7c9495fad1bed761ea2abe814ed6/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9319cbef6611937437246d14ffa15944/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c40fd655955b44538b65a0e60069a841/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2c67e628ec5e10a6dc480e38352e91b8/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v8:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e93280421d22e6cefdc29ba76562ff6f/jetified-mapbox-android-plugin-annotation-v8-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v8:0.11.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/afa788cd1b70c68a1ac036179db790d2/jetified-mapbox-android-plugin-localization-v8-0.11.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v8:0.3.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57fb23f00611925cafe522912a6b4e07/jetified-mapbox-android-plugin-markerview-v8-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a7f33ca1f4bbfc3decf03d3c48e3bb4b/mapbox-android-gestures-0.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/27660d7ce6d962207540a972968fc230/mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b106b8081245fcfd5ef5ec0fab0745ce/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/0fc50e6f32e90981611cc80e7fd69693/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.4.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d1c6163a9980230a0f64655b00498e42/mapbox-android-core-1.4.1/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/42e49ea39f9575a46c3cfe16bb1bdfb5/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/42e49ea39f9575a46c3cfe16bb1bdfb5/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a44a7c9495fad1bed761ea2abe814ed6/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a44a7c9495fad1bed761ea2abe814ed6/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9319cbef6611937437246d14ffa15944/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9319cbef6611937437246d14ffa15944/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c40fd655955b44538b65a0e60069a841/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c40fd655955b44538b65a0e60069a841/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:17:5-27:19
+MERGED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/0fc50e6f32e90981611cc80e7fd69693/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/0fc50e6f32e90981611cc80e7fd69693/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.equineregister.MainActivity
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/vyshnava/Documents/EquineRegister/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sensors] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-sensors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sensors] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-sensors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/42e49ea39f9575a46c3cfe16bb1bdfb5/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/42e49ea39f9575a46c3cfe16bb1bdfb5/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a44a7c9495fad1bed761ea2abe814ed6/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a44a7c9495fad1bed761ea2abe814ed6/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9319cbef6611937437246d14ffa15944/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9319cbef6611937437246d14ffa15944/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c40fd655955b44538b65a0e60069a841/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c40fd655955b44538b65a0e60069a841/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a430ff083c3ccb9e6346144a5dd2ced9/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2c67e628ec5e10a6dc480e38352e91b8/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2c67e628ec5e10a6dc480e38352e91b8/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v8:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e93280421d22e6cefdc29ba76562ff6f/jetified-mapbox-android-plugin-annotation-v8-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v8:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e93280421d22e6cefdc29ba76562ff6f/jetified-mapbox-android-plugin-annotation-v8-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v8:0.11.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/afa788cd1b70c68a1ac036179db790d2/jetified-mapbox-android-plugin-localization-v8-0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v8:0.11.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/afa788cd1b70c68a1ac036179db790d2/jetified-mapbox-android-plugin-localization-v8-0.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v8:0.3.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57fb23f00611925cafe522912a6b4e07/jetified-mapbox-android-plugin-markerview-v8-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v8:0.3.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57fb23f00611925cafe522912a6b4e07/jetified-mapbox-android-plugin-markerview-v8-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a7f33ca1f4bbfc3decf03d3c48e3bb4b/mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a7f33ca1f4bbfc3decf03d3c48e3bb4b/mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/27660d7ce6d962207540a972968fc230/mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/27660d7ce6d962207540a972968fc230/mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/3d9ab8da87588fc427cbb77eaa356e9a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b106b8081245fcfd5ef5ec0fab0745ce/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/b106b8081245fcfd5ef5ec0fab0745ce/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/0fc50e6f32e90981611cc80e7fd69693/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/0fc50e6f32e90981611cc80e7fd69693/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.4.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d1c6163a9980230a0f64655b00498e42/mapbox-android-core-1.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.4.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d1c6163a9980230a0f64655b00498e42/mapbox-android-core-1.4.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyshnava/Documents/EquineRegister/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.4.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d1c6163a9980230a0f64655b00498e42/mapbox-android-core-1.4.1/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.4.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/d1c6163a9980230a0f64655b00498e42/mapbox-android-core-1.4.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:react-native-geolocation-service] /Users/vyshnava/Documents/EquineRegister/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2bc09ed3ed637b759aa11fd5045a9bae/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/adb57f872558ecd8f8e0e6040f0e00b3/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.0.0] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/4508d5e9d3dd141fb45de989ed8aa0e8/jetified-mapbox-android-sdk-9.0.0/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.7.1] /Users/vyshnava/.gradle/caches/transforms-2/files-2.1/2cd2f6c9255e21edd861d64ae0550ad7/jetified-mapbox-android-telemetry-4.7.1/AndroidManifest.xml:25:13-92
